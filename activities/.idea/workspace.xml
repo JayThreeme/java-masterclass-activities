@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd8aa6a2-73cf-4619-87d7-a77fe84a7717" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2eX10xFLm8jlJrx8kQHEg6bxLPk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaCalculator.executor": "Run",
+    "Application.BarkingDog.executor": "Run",
+    "Application.ComplexNumberMain.executor": "Run",
+    "Application.DecimalComparator.executor": "Run",
+    "Application.DiagonalStar.executor": "Run",
+    "Application.EqualSumChecker.executor": "Run",
+    "Application.EvenDigitSum.executor": "Run",
+    "Application.FactorPrinter.executor": "Run",
+    "Application.FirstLastDigitSum.executor": "Run",
+    "Application.FlourPacker.executor": "Run",
+    "Application.GratestCommonDivider.executor": "Run",
+    "Application.InputCalculator.executor": "Run",
+    "Application.IntEqualityPrinter.executor": "Run",
+    "Application.LargestPrime.executor": "Run",
+    "Application.LastDigitChecker.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MegaBytesConverter.executor": "Run",
+    "Application.MinimumElement.executor": "Run",
+    "Application.MinutesToYearsDaysCalculator.executor": "Run",
+    "Application.NumberInWord.executor": "Run",
+    "Application.NumberOfDaysInMonth.executor": "Run",
+    "Application.NumberPalindrome.executor": "Run",
+    "Application.NumberToWords.executor": "Run",
+    "Application.PaintJob.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PersonMain.executor": "Run",
+    "Application.PlayingCat.executor": "Run",
+    "Application.PointMain.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SharedDigit.executor": "Run",
+    "Application.SimpleCalculatorMain.executor": "Run",
+    "Application.SortedArray.executor": "Run",
+    "Application.SumOddRange.executor": "Run",
+    "Application.TeenNumberChecker.executor": "Run",
+    "Application.WallMain.executor": "Run",
+    "Application.org.jtj.abstractclass.Main.executor": "Run",
+    "Application.org.jtj.bank.Main.executor": "Run",
+    "Application.org.jtj.composition.Main.executor": "Run",
+    "Application.org.jtj.cylinder.Main.executor": "Run",
+    "Application.org.jtj.playlist.Main.executor": "Run",
+    "Application.org.jtj.playlistinnerclass.Main.executor": "Run",
+    "Application.org.jtj.polymorphism.Main.executor": "Run",
+    "Application.org.jtj.poolarea.Main.executor": "Run",
+    "Application.org.jtj.simpleinterface.Main.executor": "Run",
+    "Application.positivenegativezero.executor": "Run",
+    "Application.speedconverter.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/JIMMYMSI/Desktop/Java-Masterclass-Activity/activities/src/main/java/org/jtj/playlistinnerclass",
+    "onboarding.tips.debug.path": "C:/Users/JIMMYMSI/Desktop/Java-Masterclass-Activity/activities/src/main/java/org/jtj/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JIMMYMSI\Desktop\Java-Masterclass-Activity\activities\src\main\java\org\jtj\playlistinnerclass" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.adventuregame.Main" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jtj.adventuregame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.jtj.abstractclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.abstractclass.Main" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jtj.abstractclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.jtj.bank.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.bank.Main" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jtj.bank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.jtj.playlistinnerclass.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.playlistinnerclass.Main" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jtj.playlistinnerclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.jtj.simpleinterface.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jtj.simpleinterface.Main" />
+      <module name="activities" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jtj.simpleinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.jtj.playlistinnerclass.Main" />
+        <item itemvalue="Application.org.jtj.simpleinterface.Main" />
+        <item itemvalue="Application.org.jtj.abstractclass.Main" />
+        <item itemvalue="Application.org.jtj.bank.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8aa6a2-73cf-4619-87d7-a77fe84a7717" name="Changes" comment="" />
+      <created>1712035891065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712035891065</updated>
+    </task>
+    <servers />
+  </component>
+</project>
